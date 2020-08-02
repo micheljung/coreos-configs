@@ -5,4 +5,4 @@ passwd:
     - name: core
       ssh_authorized_keys:
         - ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA0OTZsPqBtvqLx3v2Ki0REUEWF+kK06nXeHeAgRD6R4feONnAenmwlk2CgK5eOs3xUmaaRIFvrB8zVv53YqbUqFpgZKINKHk+sKo8Okgl5IJzZ2jQ72Pg3nnD5BNOpQHa0sgUUEB2ivyKi8S648VHV5LLkOfLYHlxVdt1KfHm4MVHgFZJnxdXRfB3QcI5aRy+tEzEDSFMfnM/fE1NHhRiHkYCMkhgpMpZShSqif677uGRvc7A5wWOY13iEI2NNwmnBJlSpI/CN5/fjZpz3nE5se3KqZuYOlNm2N2dndWyjDn6pPsLpwARZki/Y+YPdhbcOXM/pNCkEl/io2JGm30WHQ==
- 
+      groups: [ sudo, docker ]
